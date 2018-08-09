@@ -1,5 +1,5 @@
 # AutoSentenceGen
-Auto Sentence Generation using Markov Chains And Word2Vec
+Auto Sentence Generation using Markov Chains
 
 By giving a dataset which includes in this case the whole novel set of Sherlock Holmes we can train a markovian model to generate random
 Sentences.
